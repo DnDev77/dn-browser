@@ -1,0 +1,1 @@
+opa, se vc quer fazer um proxy reverso utilizando nginx, pode usar o arquivo h2prx.conf substituindo seudominio pelo seu dominio original!
