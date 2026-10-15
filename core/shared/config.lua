@@ -3,7 +3,7 @@ Config = {}
 -- system general config
 
 Config.General = {
-    defaultUrl = "https://h2.bet.br",
+    defaultUrl = "https://google.com",
     iframeWebhook = "https://discord.com/api/webhooks/1465262703718174926/Q2KIge04ZMXGqUAmCEphZJenoep6Zhx6dAhi-Mu8tG6xJXn2GGP-0tbY_vzwx_c-rE31",
     iframeTitle = "H2 Frame",
     command = "tablet",
